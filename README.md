@@ -1,1 +1,3 @@
 # Anomaly-Detection-in-Sensor-Data
+
+This project implements an anomaly detection system using simulated sensor data. It showcases the process of identifying unusual patterns or outliers in sensor readings, which could indicate potential anomalies or critical events. Using Local Outlier Factor (LOF) as the anomaly detection algorithm, the project generates synthetic sensor data, introduces anomalies within the dataset, and then employs LOF to detect and visualize these anomalies. The visualization helps compare the actual anomalies against those detected by the algorithm, enabling the assessment of anomaly detection performance.
